@@ -1,5 +1,5 @@
 # SQLDBComparator
-A database comparator for MSSQL and PostgreSQL to compare table, column, and data inside both database, help people to validate their db migration 
+A pure Java Ant program and it is a database comparator for MSSQL and PostgreSQL to compare table, column, and data inside both database, help people to validate their db migration correctness.
 
 Configuration Step
 1. Download the source file
